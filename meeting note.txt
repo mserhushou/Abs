@@ -1,0 +1,4 @@
+docker
+cloud / azure. Why do people choose it.
+ef . store proc. requests.
+rest services.
